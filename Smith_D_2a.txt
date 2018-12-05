@@ -1,0 +1,9 @@
+Dustin Smith
+Project 2a Pseudocode
+This code is meant to respresent a square feet to acre program.
+
+Ask user for the square feet, save as a variable called squareFeet
+
+Divide sqaureFeet by 43560 (sqaureFeet/43560), save variable as acres
+
+Print "Your tract is" acres "acres!"

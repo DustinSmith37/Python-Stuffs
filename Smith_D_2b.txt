@@ -1,0 +1,14 @@
+Dustin Smith
+Project 2b
+This calculates sales tax on items
+
+Ask user for cost of item(s), save as initialCost
+
+Multiply initialCost by 5% (initialCost * 0.05), save as stateTax
+
+Multiply initialCost by 2.5% (initialCost * 0.025), save as countyTax
+
+Add initialCost, stateTax, and countyTax (initialCost + stateTax + countyTax), save as totalCost
+
+Print initialCost, stateTax, countyTax, and totalCost with basic explainations (County tax: $countyTax)
+

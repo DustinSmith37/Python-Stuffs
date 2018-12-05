@@ -1,0 +1,7 @@
+9
+20
+30
+5
+Sum of numbers: 64
+Number of numbers: 4
+Average of the numbers: 16.00

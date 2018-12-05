@@ -1,0 +1,14 @@
+Dustin Smith
+Project 2c
+This program tells you the percent of each color of binder from the total
+
+Get the input "Number of white binders", save as a variable called white
+Get the input "Number of blue binders", save as a variable called blue
+Get the input "Number of black binders", save as a variable called black
+
+Add the three inputs, save as totalBinder
+Divide white by totalBinder, then multiply by 100, save as percentWhite
+Divide blue by totalBinder, then multiply by 100, save as percentBlue
+Divide black by totalBinder, then multiply by 100, save as percentBlack
+
+Print the results in a basic list like output

@@ -1,0 +1,16 @@
+Dustin Smith
+Program to calculate weight from mass
+
+Ask user "Please input the objects mass"
+Store this response as a variable called Mass
+
+Multiply Mass by 9.8
+Store variable as Weight
+
+If weight is greater than 500
+	print "The object's weight is" Weight "and is too heavy."
+else if weight is less than or equal to 500 and greater than or equal to 100
+	print "The object's weight is" Weight"."
+else
+	print "The object's weight is" Weight "and is too light."
+
